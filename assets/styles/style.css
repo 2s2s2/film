@@ -1,0 +1,27 @@
+body, h1, h2, h3, h4, p, ol, ul, li {
+	margin: 0;
+	font-family: "Helvetica";
+	padding: 0;
+}
+
+*{
+	box-sizing: border-box;
+}
+
+a{
+	text-decoration: none;
+}
+
+span{
+	color: red;
+}
+
+.container{
+	margin: 0 auto;
+	width: 1024px;
+}
+
+.left__panel{
+	width: 500px;
+	border-bottom: 2px solid black;
+}

@@ -1,0 +1,37 @@
+li{	
+	list-style-type: none;
+}
+
+.film__info{
+	padding-bottom: 20px;
+	padding-top: 20px;
+}
+
+.about{
+	font-size: 25px;
+}
+
+.uls{
+	display: flex;
+	justify-content: space-between;	
+	padding-top: 20px;
+	padding-bottom: 20px;
+	font-size: 18px;
+}
+
+.detail{
+	display: flex;
+	justify-content: flex-start;
+}
+
+.detail__fild{
+	width: 200px;
+}
+
+.detail__value{
+	width: 250px;
+}
+
+.actors__item{
+	width: 500px;
+}

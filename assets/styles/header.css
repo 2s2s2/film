@@ -1,0 +1,17 @@
+header{
+	background-color: black;
+	height: 60px;
+	display: flex;
+	align-items: center;
+	justify-content: space-between;
+}
+
+.header__logo{
+	height: 80px;
+}
+
+.link{
+	text-decoration: none;
+	font-size: 15px;
+	color: white;
+}

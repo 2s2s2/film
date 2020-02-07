@@ -1,0 +1,28 @@
+.events{
+	position: relative;
+	min-height: 550px;
+	padding: 20px;
+	background-color: black;
+}
+
+.events__title{
+	font-size: 30px;
+	color: white;
+}
+
+.btn.-huge{
+	position: absolute;
+	bottom: 10px;
+	left: 350px;
+	background-color: black;
+	border: 2px solid #ababab;
+	color: #ababab;
+	padding: 20px 70px;
+}
+
+.images{
+	display: flex;
+	justify-content: space-between;
+	width: 400px;
+	height: 400px;
+}

@@ -1,0 +1,23 @@
+.hero{
+	position: relative;
+	background-image: url("../img/hatiko.jpg");
+	height: 500px;
+	background-size: 100%;
+	background-repeat: no-repeat;
+}
+
+.hero__date{
+	position: absolute;
+	top: 10px;
+	left: 60px;
+	color: white;
+	font-size: 60px;
+}
+
+.hero__name{
+	position: absolute;
+	top: 100px;
+	left: 60px;
+	color: white;
+	font-size: 60px;
+}
